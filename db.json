@@ -1,0 +1,42 @@
+{
+  "todoapp": [
+    {
+      "id": 1,
+      "name": "Giặt quần áo",
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "name": "Rửa bát",
+      "isCompleted": true
+    },
+    {
+      "id": 3,
+      "name": "Lau nhà",
+      "isCompleted": false
+    },
+    {
+      "id": 4,
+      "name": "Làm bài tập về nhà",
+      "isCompleted": true
+    },
+    {
+      "name": "Code project ReactJS",
+      "isCompleted": false,
+      "createdAt": 1645853170592,
+      "id": 5
+    },
+    {
+      "name": "Ngủ trưa",
+      "isCompleted": true,
+      "createdAt": 1645857313780,
+      "id": 6
+    },
+    {
+      "name": "ăn cơm tối",
+      "isCompleted": false,
+      "createdAt": 1645860036303,
+      "id": 7
+    }
+  ]
+}
